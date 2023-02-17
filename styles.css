@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+.holder{
+	display: grid;
+/*     background-color: rebeccapurple; */
+    gap: 5px;
+    grid-template-columns: auto auto;
+           
+}
+.item{
+	height: 200px;
+	width: 200px;
+}
