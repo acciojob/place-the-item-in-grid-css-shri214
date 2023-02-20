@@ -1,11 +1,12 @@
 .holder{
 	display: grid;
 /*     background-color: rebeccapurple; */
-    gap: 5px;
     grid-template-columns: auto auto;
+	row-gap: 10px
            
 }
-.item{
+.items{
 	height: 200px;
 	width: 200px;
+	background-color: red;
 }
