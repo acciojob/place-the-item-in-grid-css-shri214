@@ -1,12 +1,11 @@
 .holder{
 	display: grid;
 /*     background-color: rebeccapurple; */
-    grid-template-columns: auto auto;
-	row-gap: 10px
-           
+    grid-template-columns: 100px 100px;
+/* 	grid-template-rows: 492px 492px; */
 }
 .items{
-	height: 200px;
-	width: 200px;
+	height: 200;
+	width: 200;
 	background-color: red;
 }
