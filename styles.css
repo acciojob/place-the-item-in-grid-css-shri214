@@ -3,6 +3,7 @@
 /*     background-color: rebeccapurple; */
     grid-template-columns: 100px 100px;
 /* 	grid-template-rows: 492px 492px; */
+	gap: 2px;
 }
 .items{
 	height: 200;
